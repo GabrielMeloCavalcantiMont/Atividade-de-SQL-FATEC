@@ -1,6 +1,8 @@
 # Atividade-de-SQL-FATEC
-Atividade de SQL, do curso de DSM na FATEC Zona Sul. Supervisionado pela professora Luciana Silva Zapparolli 
+Atividade de SQL, do curso de DSM na FATEC Zona Sul, supervisionado pela professora Luciana Silva Zapparolli 
 
-Data:14/04/2026
+**Data:** 14/04/2026
 
-A atividade tinha foco em entender como criar uma tabela, adicionar itens, dados e gerenciá-los.
+## 💻 Sobre:
+
+A atividade tinha foco em entender como criar tabelas, inserir e gerenciar dados.
